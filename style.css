@@ -1,0 +1,101 @@
+body {background-color:black;}
+
+img{width: 40%;
+    object-fit: cover;
+    position: absolute;
+    top: -15%;
+    left:30%}
+
+.kontakt1{color: white;
+    width: 500px;
+    position: absolute;
+    top: 27%;
+    left: 5%;
+    object-fit: cover;
+    transition: 0.7s ease-in-out;
+    text-decoration: none;}
+
+.kontakt1:hover{
+    color: grey;}
+
+.Fotka{position: absolute;
+    top: 27%;}
+
+.my{color:white;
+    position:absolute;
+    top:50%;
+    left:5%;
+    transition: 0.7s ease-in-out;
+    text-decoration: none;
+    
+}
+
+.my:hover{
+    color: grey;
+    
+}
+
+.fotky{color: white;
+    position: absolute;
+    top: 73%;
+    left: 5%;
+    transition: 0.7s ease-in-out;
+    text-decoration: none;}
+.fotky:hover{
+    color: grey;}
+
+.facebook{  }
+
+.prvy{border: 2px solid white;
+        width: 20%;
+        position: absolute;
+        top: 30%;
+        left: 6%}
+
+.druhy{border: 2px solid white;
+        width: 20%;
+        position: absolute;
+        top: 55%;
+        left:6%}
+
+
+.treti{border: 2px solid white;
+        width: 20%;
+        position: absolute;
+        top: 30%;
+        left: 28%;}
+.stvrty{border: 2px solid white;
+        width: 20%;
+        position: absolute;
+        top: 55%;
+        left: 28%;}
+.piaty{border: 2px solid white;
+    width: 20%;
+    position: absolute;
+    top: 30%;
+    left: 50%;}
+
+.siesty{border: 2px solid white;
+    width: 20%;
+    position: absolute;
+    top: 55%;
+    left: 50%;}
+.siedmy{border: 2px solid white;
+        width: 20%;
+        position: absolute;
+        top: 30%;
+        left: 72%;}
+.osmy{border: 2px solid white;
+    width: 20%;
+    position: absolute;
+    top: 55%;
+    left: 72%;}
+
+
+.farba{color: white;}
+
+.lorem{font-size:xx-large;
+    width: 40%;
+    position: absolute;
+    top: 40%;
+    left: 35%;}
